@@ -1,0 +1,4 @@
+name="bsv"
+symbol="bsv"
+daemon="bitcoind"
+cli="bitcoin-cli"
