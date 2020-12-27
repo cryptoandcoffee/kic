@@ -1,4 +1,4 @@
-name="bsv"
-symbol="bsv"
-daemon="bitcoind"
-cli="bitcoin-cli"
+name="xvg"
+symbol="xvg"
+daemon="verged"
+cli="verge-cli"
