@@ -1,4 +1,4 @@
-name="xvg"
-symbol="xvg"
-daemon="verged"
-cli="verge-cli"
+name="kic"
+symbol="kic"
+daemon="kibicoind"
+cli="kibicoin-cli"
