@@ -1,1 +1,1 @@
-# bsv
+# kic - kibicoin binaries
